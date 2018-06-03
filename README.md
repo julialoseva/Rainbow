@@ -25,7 +25,15 @@ dependencies {
 
 ## Usage
 
-The documentation is currently in work process. Will be published soon.
+`Rainbow` provides you with full list of [Material colors](https://material.io/design/color/the-color-system.html#color-theme-creation). Simply type `@color/color<Name><Level>` to get a color:
+
+```xml
+<TextView
+          android:text="This is a text view."
+          android:background="@color/colorGray900"
+          android:textColor="@color/colorPink300"
+          />
+```
 
 ## License
 
