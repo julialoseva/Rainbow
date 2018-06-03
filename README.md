@@ -23,6 +23,12 @@ dependencies {
 }
 ```
 
+## Requirements
+
+* Android SDK 15 and later
+* Android Studio 3.0 and later
+* Java 7 and later
+
 ## Usage
 
 `Rainbow` provides you with full list of [Material colors](https://material.io/design/color/the-color-system.html#color-theme-creation). Simply type `@color/color<Name><Level>` to get a color:
