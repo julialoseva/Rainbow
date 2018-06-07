@@ -19,7 +19,7 @@ Then add `Rainbow` to dependencies list:
 
 ```javascript
 dependencies {
-    compile 'com.github.julialoseva:Rainbow:1.0.5'
+    implementation 'com.github.julialoseva:Rainbow:1.1'
 }
 ```
 
@@ -31,13 +31,13 @@ dependencies {
 
 ## Usage
 
-`Rainbow` provides you with full list of [Material colors](https://material.io/design/color/the-color-system.html#color-theme-creation). Simply type `@color/color<Name><Level>` to get a color:
+`Rainbow` provides you with full list of [Material colors](https://material.io/design/color/the-color-system.html#color-theme-creation). Simply type `@color/rb_<name>_<level>` to get a color:
 
 ```xml
 <TextView
           android:text="This is a text view."
-          android:background="@color/colorGray900"
-          android:textColor="@color/colorPink300"
+          android:background="@color/rb_gray_900"
+          android:textColor="@color/rb_pink_300"
           />
 ```
 
