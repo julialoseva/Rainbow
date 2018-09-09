@@ -19,7 +19,7 @@ Then add `Rainbow` to dependencies list:
 
 ```javascript
 dependencies {
-    implementation 'com.github.julialoseva:Rainbow:1.1'
+    implementation 'com.github.julialoseva:Rainbow:1.2'
 }
 ```
 
