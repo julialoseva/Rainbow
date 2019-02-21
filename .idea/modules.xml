@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rainbow.iml" filepath="$PROJECT_DIR$/Rainbow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rainbow/rainbow.iml" filepath="$PROJECT_DIR$/rainbow/rainbow.iml" />
     </modules>
   </component>
 </project>
